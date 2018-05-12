@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34881
     wikipedia: http://en.wikipedia.org/wiki/Joseph_L._Lewis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30900#The-Tyranny-of-God
 gutenberg_issued: '2010-01-09'
 gutenberg_type: Text
 identifiers:
